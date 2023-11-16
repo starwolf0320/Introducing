@@ -8,13 +8,13 @@
 </div>
 
 <h2 align="center">
-  I'm  a Professional Web & Mobile & Blockchain developer 👨‍💻
-  working remotely since 2013 🚀
+  I'm  a Professional FE && BE developer 👨‍💻
+  working remotely since 2018 🚀
 </h2>
 
-<h4>🔭 I’m currently working on [Github](https://github.com/squirdev) - 🌱 I’m
+<h4>🔭 I’m currently working on [Github](https://github.com/starwolf0320) - 🌱 I’m
   currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything
-  related to MERN stack, Mobile App, Blockchain, and related technologies - ⚡ Fun
+  related to MERN stack, Vue-Apollo-Graphql, Blockchain, and related technologies - ⚡ Fun
   fact: I Speed id the most important thing in Development</h4>
 
 <br />
