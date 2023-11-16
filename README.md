@@ -126,15 +126,6 @@
             alt="WordPress"
             height="50"
         /></a>
-        <a
-          href="https://www.adobe.com/in/products/indesign.html"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg"
-            alt="Adobe InDesign"
-            height="50"
-        /></a>
         <a href="https://sass-lang.com/" target="_blank"
           ><img
             style="margin: 10px"
@@ -147,13 +138,13 @@
     <td valign="top" width="25%">
       <h3>Backend</h3>
       <div align="center">
-        <a href="https://www.cplusplus.com/" target="_blank"
+<!--         <a href="https://www.cplusplus.com/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"
             alt="C++"
             height="50"
-        /></a>
+        /></a> -->
         <a href="https://www.javascript.com/" target="_blank"
           ><img
             style="margin: 10px"
@@ -189,13 +180,13 @@
             alt="Node.js"
             height="50"
         /></a>
-        <a href="https://www.linux.org/" target="_blank"
+<!--         <a href="https://www.linux.org/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
             alt="Linux"
             height="50"
-        /></a>
+        /></a> -->
         <a href="https://www.nginx.com/" target="_blank"
           ><img
             style="margin: 10px"
@@ -231,13 +222,13 @@
             alt="Redux"
             height="50"
         /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
+<!--         <a href="https://www.gnu.org/software/bash/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
             alt="Bash"
             height="50"
-        /></a>
+        /></a> -->
         <a
           href="https://docs.microsoft.com/en-us/dotnet/csharp/"
           target="_blank"
@@ -291,13 +282,13 @@
             alt="Electron"
             height="50"
         /></a>
-        <a href="https://www.ruby-lang.org/en/" target="_blank"
+<!--         <a href="https://www.ruby-lang.org/en/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg"
             alt="Ruby"
             height="50"
-        /></a>
+        /></a> -->
         <a href="https://nuxtjs.org/" target="_blank"
           ><img
             style="margin: 10px"
@@ -312,16 +303,16 @@
             alt="Django"
             height="50"
         /></a>
-        <a href="https://rubyonrails.org/" target="_blank"
+<!--         <a href="https://rubyonrails.org/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg"
             alt="Ruby on Rails"
             height="50"
-        /></a>
+        /></a> -->
       </div>
     </td>
-    <td valign="top" width="25%">
+<!--     <td valign="top" width="25%">
       <h3>DevOps & CMS</h3>
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
@@ -437,8 +428,8 @@
             height="50"
         /></a>
       </div>
-    </td>
-    <td valign="top" width="25%">
+    </td> -->
+<!--     <td valign="top" width="25%">
       <h3>Mobile</h3>
       <div align="center">
         <a href="https://dart.dev/" target="_blank"
@@ -505,35 +496,35 @@
             height="50"
         /></a>
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 
 <br />
 
-## Github Stats 1
+    ## Github Stats 1
 
 <!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-</div>
+    <div align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
+    </a>
+    </div>
 
 <!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-</div>
-
-## Github Stats 2
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=km1220&show_icons=true&count_private=true&hide_border=true"
-    align="center"
-  />
-</div>
-
-<br />
+    <div align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+    </a>
+    </div>
+    
+    ## Github Stats 2
+    
+    <div align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=km1220&show_icons=true&count_private=true&hide_border=true"
+        align="center"
+      />
+    </div>
+    
+    <br />
